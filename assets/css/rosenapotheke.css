@@ -1,0 +1,211 @@
+.weiss {
+	color: white;
+}
+
+.black {
+	color: black;
+}
+
+.hellgrau {
+	background-color: #d3d8de;
+}
+
+.blau {
+	color: #00008e;
+	line-height: normal;
+}
+
+.floatingHeader {
+  position: fixed;
+  top: 0;
+  visibility: hidden;
+}
+
+
+.ra-unit {
+	margin-bottom: 20px;
+  color: inherit;
+  background-color: white;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+     -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+		  padding: 15px;
+	  }
+
+.ra-thumbnail {
+  display: block;
+  border: 0px solid #ddd;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+     -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+    -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  background-color: white;
+  color: black;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+
+#logo {
+	height: 125px;
+	overflow: hidden;
+	float: none;
+	background: url(../img/logos/ra_seitentitel1000trans.png) no-repeat 0 bottom;
+}
+
+
+      /* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+height: 100%;
+/* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+/* Negative indent footer by it's height */
+margin: 0 auto -70px;
+}
+
+/* Set the fixed height of the footer here */
+#push,
+#footer {
+height: 70px;
+padding-top: 10px;
+}
+#footer {
+	background-color: white;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+	   -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+	        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+}
+
+a {
+	color: black;
+}
+
+li {
+font-size: 85%;	  	
+}
+
+/* Lastly, apply responsive CSS fixes as necessary */
+@media (max-width: 800px) {
+#footer {
+  margin-left: -20px;
+  margin-right: -20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgba(211, 216, 222, 0);
+}
+}
+
+
+iframe {
+	overflow: hidden;
+}
+
+
+.kalender {
+  min-height: 20px;
+  padding: 0px;
+  margin-bottom: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #e3e3e3;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.mittig {
+	text-align: center;
+	margin: auto;
+}
+
+.noisy {
+	background: url(../img/patterns/noisy.png) repeat;
+}
+
+
+.ricepaper {
+	background: url(../img/patterns/ricepaper.png) repeat;
+}
+
+
+.bluestripes {
+	background: url(../img/patterns/blu_stripes.png) repeat;
+}
+
+.ranail {
+  display: block;
+  padding: 4px;
+  line-height: 20px;
+  border: 0px solid #ddd;
+  /*-webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+  -webkit-transition: all 0.2s ease-in-out;
+     -moz-transition: all 0.2s ease-in-out;
+       -o-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;*/
+}
+
+a.ranail:hover,
+a.ranail:focus {
+  /*border-color: #0088cc;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
+     -moz-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
+          box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);*/
+}
+
+.ranail > img {
+  display: block;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ranail .caption {
+  padding: 9px;
+  color: #555555;
+}
+
+
+.fehlermeldung {
+	height: 60px;
+}
+
+#navigation ul{
+	overflow: auto;
+}
+
+#navigation ul li.link{
+	float:right;
+}
+
+#header ul li{
+	float:left;
+}
+
+
