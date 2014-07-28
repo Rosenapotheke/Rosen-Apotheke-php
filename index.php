@@ -79,7 +79,8 @@ Wir freuen uns auf Ihren Besuch!</p>
     <li class="thumbnail"><img src="assets/img/tees/tee_vorschauen/Tee_DSC_2899s.jpg" /></li>
     <li class="thumbnail"><img src="assets/img/tees/tee_vorschauen/Tee_DSC_2911s.jpg" /></li>
     <li class="thumbnail"><img src="assets/img/tees/tee_vorschauen/Tee_DSC_2912s.jpg" /></li>
-    
+    <li class="thumbnail"><a href="http://www.meineapotheke.de/de/index.html" target="_blank"><img width="980" src="assets/img/marken/mea-logo.jpg"/></a></li>
+<!--    <li><a href="http://www.meineapotheke.de/de/service/apothekensuche.html?plzort=88299">mea</a></li>-->
 </ul>
 </article>
 
