@@ -80,9 +80,9 @@ $uhrzeit = date("H:i");
 		
 		
 		
+		$to = 'Rosenapotheke Leutkirch <info@rosen-apoth.de>'. ', '; // note the comma
 		$to = 'Rosenapotheke Leutkirch <waltraud.hoelz@gmail.com>'. ', '; // note the comma
-		$to .= 'Administrator Rosenapotheke <admin@rosenapotheke.de>';
-//		$Cc	= 'Administrator windaktiv <admin@windaktiv.de>';
+		$Bcc = 'Administrator Rosenapotheke <admin@rosen-apoth.de>';
 		
 		// Enter your email address
 //		$recipient = "windaktiv@hhhaesler.org"; "haesler@hhhaesler.org";
@@ -98,7 +98,7 @@ $uhrzeit = date("H:i");
 		
 		// Additional headers
 		$headers .= "From: $email \r\n";
-		$headers .= "Bcc: Administrator Rosenapotheke <admin@rosenapotheke.de>" . "\r\n";
+		$headers .= "Bcc: Administrator Rosenapotheke <admin@rosen-apoth.de>" . "\r\n";
 		
 		
 		// Send email, if something goes wrong, kill programm and return error message

@@ -4,7 +4,7 @@
 <div id="footer">
 <div class="row">
 <div class="span1 offset1">
-<img class="pull-left" style="margin-left:30px;" src="assets/img/logos/apotheke.png" width="auto" height="auto">
+<img class="pull-left" style="margin-left:30px;" src="assets/img/logos/Apotheke.png" width="auto" height="auto">
 </div> 
   
 <div class="span2">
@@ -22,16 +22,15 @@ Ottmannshofer Straße 19<br>
 <div class="span2">
 <p><small>Telefon 0 75 61 - 98 49 0<br>
 Telefax 0 75 61 - 98 49 19<br>
-<a href="mailto:info@rosen-apoth.de" target="_blank" class="roll">
-<span data-title="info@rosen-apoth.de">info@rosen-apoth.de</span></a></small>
+<a href="mailto:info@rosen-apoth.de" target="_blank" class="roll"><span data-title="info@rosen-apoth.de">info@rosen-apoth.de</span></a></small>
 </p>
 </div>
 
 <div class="span2">
 <p><small>
 <a href="./impressum.php" target="_self" class="roll"><span data-title="Impressum">Impressum</span></a><br>
-<a href="./impressum.php" target="_self" class="roll"><span data-title="Datenschutz">Datenschutz</span></a><br>
-<a href="./impressum.php" target="_self" class="roll"><span data-title="Haftungsausschluss">Haftungsausschluss</span></a>
+<a href="./datenschutz.php" target="_self" class="roll"><span data-title="Datenschutz">Datenschutz</span></a><br>
+<a href="./haftungsausschluss.php" target="_self" class="roll"><span data-title="Haftungsausschluss">Haftungsausschluss</span></a>
 
 
 
@@ -49,29 +48,14 @@ Telefax 0 75 61 - 98 49 19<br>
 ================================================== -->
 <script src="http://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9.js"></script>
 <!--<script src=" http://use.edgefonts.net/open-sans:n3,i3,n4,i4,n6,i6,n7,i7,n8,i8.js"></script>-->
-
-
-
-<!-- Placed at the end of the document so the pages load faster -->
 <script src="assets/js/jquery-1.9.1.min.js"></script>
 <script src="assets/js/bootstrap-transition.js"></script>
-<!--<script src="assets/js/bootstrap-alert.js"></script>-->
-<!--<script src="assets/js/bootstrap-modal.js"></script>
-<script src="assets/js/bootstrap-dropdown.js"></script>
-<script src="assets/js/bootstrap-scrollspy.js"></script>
-<script src="assets/js/bootstrap-tab.js"></script>
-<script src="assets/js/bootstrap-tooltip.js"></script>
-<script src="assets/js/bootstrap-popover.js"></script>-->
 <script src="assets/js/bootstrap-button.js"></script>
 <script src="assets/js/bootstrap-collapse.js"></script>
-<!--<script src="assets/js/bootstrap-carousel.js"></script>
-<script src="assets/js/bootstrap-typeahead.js"></script>-->
-
 <script src="assets/js/hyphenate.js"></script>
 <script src="assets/js/hakim_roll.js"></script>
 <script src="assets/js/jquery.validate.js"></script>
 <script src="assets/js/rosenapothekemail_verarbeiten.js"></script>
-
 <script src="assets/js/jquery.ui.totop.js"></script>
 <script src="assets/js/jquery.easing.1.3.js"></script>
 

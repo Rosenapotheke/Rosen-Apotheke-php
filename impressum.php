@@ -27,7 +27,7 @@
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 </button>
-<a class="brand" href="./index.php">Rosen Apotheke Leutkirch im Allgäu</a>
+<a class="brand" href="./index.php">Rosen Apotheke</a>
 <div class="nav-collapse collapse">
 <ul class="nav">
 <li class="">
@@ -73,23 +73,23 @@
 <p>Rosen Apotheke<br> Apothekerin Waltraud Hölz e.K.<br>
 Ottmannshofer Straße 19<br>
 D-88299 Leutkirch</p>
-<table width="300" border="0" cellspacing="0" cellpadding="0">
+<table width="500" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="100">Telefon</td>
-<td width="300">++ 49 - (0) 75 61 - 98 49-0</td>
+<td width="400">++ 49 - (0) 75 61 - 98 49 0</td>
 </tr>
 <tr>
 <td width="100">Telefax</td>
-<td width="300">++ 49 - (0) 75 61 - 98 49 19</td>
+<td width="400">++ 49 - (0) 75 61 - 98 49 19</td>
 </tr>
 <tr>
 <td width="100">E-Mail</td>
-<td width="300"><a href="mailto:info@rosen-apoth.de" target="_blank" class="roll"><span data-title="info@rosen-apoth.de">info@rosen-apoth.de</span></a></td>
+<td width="400"><a href="mailto:info@rosen-apoth.de" target="_blank" class="roll"><span data-title="info@rosen-apoth.de">info@rosen-apoth.de</span></a></td>
 
 </tr>
 <tr>
 <td width="100">Homepage</td>
-<td width="300"><a href="http://www.rosen-apoth.de/" target="_self" class="roll"><span data-title="http://www.rosen-apoth.de">http://www.rosen-apoth.de</span></a></td>
+<td width="400"><a href="http://www.rosen-apoth.de/" target="_self" class="roll"><span data-title="http://www.rosen-apoth.de">http://www.rosen-apoth.de</span></a></td>
 </tr>
 </table>
 <h4 class="blau">Inhaltlich Verantwortliche gemäß &sect; 10 Absatz 3 MDStV</h4>
@@ -144,12 +144,12 @@ Seit dem 01. Februar 2008 wird die Rosen-Apotheke unter neuer Leitung von der Ap
  Harald Häsler<br>
  Erlenweg 11<br>
  D-88299 Leutkirch im Allgäu</p>
-<p>Telefon: ++ 49 - (0) 75 65 - 91 48 43<br>
+<p>Telefon: ++ 49 - (0) 75 61 - 98 75 370<br>
 
-E-Mail: <a href="mailto:haesler@hhhaesler.org" target="_blank" class="roll"><span data-title="haesler@hhhaesler.org">haesler@hhhaesler.org</span></a><br>
-Internet: <a href="http://www.hhhaesler.org/" target="_blank" class="roll"><span data-title="http://www.hhhaesler.org">http://www.hhhaesler.org</span></a></p>
+E-Mail: <a href="mailto:h.haesler@werkkreis.org" target="_blank" class="roll"><span data-title="h.haesler@werkkreis.org">h.haesler@werkkreis.org</span></a><br>
+Internet: <a href="http://consolacao.github.io" target="_blank" class="roll"><span data-title="http://consolacao.github.io">http://consolacao.github.io</span></a></p>
 
-<p><br>Die WebSite wurde zuletzt am 15. August 2013 um 06 Uhr aktualisiert.</p>
+<p><br>Die WebSite wurde zuletzt am 25. Juli 2014 um 17 Uhr aktualisiert.</p>
 </article>   
 </div>
 

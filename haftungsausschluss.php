@@ -1,5 +1,5 @@
 <?php include("_header.php"); ?>
-<title>Rosen Apotheke Leutkirch &bull; Startseite</title>
+<title>Rosen Apotheke Leutkirch &bull; Haftungsausschluss</title>
 </head>
 
 <body class="noisy">
@@ -10,6 +10,7 @@
 <div class="row">
 <div class="span12">
 <!-- <img id="seitentitel" src="assets/img/logos/ra_seitentitel1000.png" alt="kopf1">-->
+ 
 </div>
 </div>
 </div>
@@ -17,7 +18,7 @@
 
 <!-- NAVBAR
 ================================================== -->
-<div class="container" id="">
+<div class="container">
 <div class="navbar">
 <div class="navbar-inner">
 <div class="container">
@@ -29,7 +30,7 @@
 <a class="brand" href="./index.php">Rosen Apotheke</a>
 <div class="nav-collapse collapse">
 <ul class="nav">
-<li class="active">
+<li class="">
 <a href="./index.php">Start</a>
 </li>
 <li class="">
@@ -66,26 +67,9 @@
 
 <div class="span8">
 <div class="ra-unit">
-
 <article>
-<h2 class="blau">Herzlich willkommen</h2>
-<p class="lead">
-Das Team der Rosen-Apotheke Leutkirch berät Sie gerne und kompetent<br>in allen Fragen zur Gesundheit.<br>
-Selbstverständlich beliefern wir Sie mit allen rezeptpflichtigen Arzneimitteln.<br>
-Wir führen Kosmetik- und Pflegeprodukte namhafter Hersteller und bereiten Teemischungen, Salben, Tinkturen, u.v.a.m.<br><br>
-Wir freuen uns auf Ihren Besuch!</p>
-<ul class="thumbnails">
-    <li class="thumbnail"><img width="980" src="assets/img/verkaufsraum/DSC_2840_L.jpg"/></li>
-    <li class="thumbnail"><img src="assets/img/tees/tee_vorschauen/Tee_DSC_2899s.jpg" /></li>
-    <li class="thumbnail"><img src="assets/img/tees/tee_vorschauen/Tee_DSC_2911s.jpg" /></li>
-    <li class="thumbnail"><img src="assets/img/tees/tee_vorschauen/Tee_DSC_2912s.jpg" /></li>
-    
-</ul>
-</article>
+<h2 class="blau">Haftungsausschluss</h2>
 
-</div>
-</div>
-</div>
 </div>
 <div id="push"></div>
 </div>
