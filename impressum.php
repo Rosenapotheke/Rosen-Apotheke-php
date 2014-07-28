@@ -149,7 +149,7 @@ Seit dem 01. Februar 2008 wird die Rosen-Apotheke unter neuer Leitung von der Ap
 E-Mail: <a href="mailto:h.haesler@werkkreis.org" target="_blank" class="roll"><span data-title="h.haesler@werkkreis.org">h.haesler@werkkreis.org</span></a><br>
 Internet: <a href="http://consolacao.github.io" target="_blank" class="roll"><span data-title="http://consolacao.github.io">http://consolacao.github.io</span></a></p>
 
-<p><br>Die WebSite wurde zuletzt am 25. Juli 2014 um 17 Uhr aktualisiert.</p>
+<p><br>Die WebSite wurde zuletzt am 28. Juli 2014 um 08 Uhr aktualisiert.</p>
 </article>   
 </div>
 

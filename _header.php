@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="all, index, nofollow"/>
-<meta name="description" content="Informationen der Rosenapotheke Leutkirch">
+<meta name="description" content="Informationen der Rosen Apotheke Leutkirch">
 <meta name="organization" content="Rosen Apotheke Leutkirch"/>
 <meta name="author" content="Rosenapotheke Leutkirch">
 <meta name="keywords" content="Gesundheit, Apotheke, Leutkirch, Waltraud Hölz, Rosenstraße, Ottmannshofer Straße, Beratung, Kosmetik, Rezepte, Impfberatung, Blutdruckmessung, Geräteverleih, Kompressionsstrümpfe, Zustelldienst, Wala, Weleda, Schüssler-Salze, Eubos, Frei, Ladival, DHU, Widmer, Kosmetik"/>
